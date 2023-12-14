@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Capstone-Back-End:war">
+    <output-path>$PROJECT_DIR$/Capstone-Back-End/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Capstone-Back-End</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Capstone-Back-End-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Capstone-Back-End:war exploded" />
+    </root>
+  </artifact>
+</component>
