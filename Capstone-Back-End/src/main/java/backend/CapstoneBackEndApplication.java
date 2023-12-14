@@ -20,4 +20,5 @@ public class CapstoneBackEndApplication extends SpringBootServletInitializer {
     protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
         return builder.sources(CapstoneBackEndApplication.class);
     }
+
 }
